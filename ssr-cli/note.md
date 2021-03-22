@@ -1,3 +1,7 @@
+> ## 项目前置阅读（看否？看心情）
+>
+> [Vue SSR 中的两个 Bundle 文件是干嘛滴？](https://www.jb51.net/article/174733.htm)
+
 ## 项目创建
 
 - 使用vue-cli脚手架创建项目(这里使用的vue-cli 2.x)
